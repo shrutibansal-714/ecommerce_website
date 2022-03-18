@@ -721,6 +721,29 @@ footer .copyright{
         width: 685px;
     }
     
+         #header{
+        width: 685px;
+    }
+
+    #hero{
+        width: 685px;
+    }
+
+    .section-p1{
+        width: 685px;
+        justify-content: center;
+
+    }
+
+    #feature .fe-box{
+        padding: 20px 15px;
+        margin: 20px 20px;
+    }
+
+    #banner{
+        width: 685px;
+    }
+    
     
 }
     

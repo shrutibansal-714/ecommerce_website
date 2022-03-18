@@ -715,6 +715,15 @@ footer .copyright{
         justify-content:space-around ;
     }
     
+    @media (max-width: 419px) {
+
+    html{
+        width: 685px;
+    }
+    
+    
+}
+    
     
 }
 
